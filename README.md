@@ -47,7 +47,7 @@ Me chamo João Henrique, tenho 19 anos e sou natural de Porto Velho-RO, mas atua
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black" 
 />
 <img 
     align="left" 
