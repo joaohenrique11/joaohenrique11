@@ -1,12 +1,71 @@
-## Olá! Eu sou João Henrique
 
-<!--
-**joaohenrique11/joaohenrique11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o João Henrique 🖐️
 
-Here are some ideas to get you started:
+**`Desenvolvedor Back-End`**
 
-- 🔭 I’m currently working on ...
-- 🌱 Estudando Ruby.
-- 📫 Contate-me no e-mail: joaohenriquesilvacapito57@gmail.com
-- 😄 Pronouns: ele/dele
--->
+Me chamo João Henrique, tenho 19 anos e sou natural de Porto Velho-RO, mas atualmente moro em Garanhuns-PE. Concluí o ensino médio no EREM Virgem do Socorro. Atualmente, estou cursando o Curso Tecnico em Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia.
+
+<p align="left">
+    <a href="https://www.instagram.com/juaoxp7/">
+        <img 
+            alt="Perfil no Instagram" 
+            title="Me siga no instagramP" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/feed/">
+        <img 
+            alt="Perfil no Linkedin" 
+            title="Meu perfil no Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/joaohenrique11?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
