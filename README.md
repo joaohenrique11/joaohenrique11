@@ -20,13 +20,6 @@ Me chamo João Henrique, tenho 19 anos e sou natural de Porto Velho-RO, mas atua
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/joaohenrique11?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
