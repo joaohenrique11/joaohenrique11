@@ -5,7 +5,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0E0E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MEU+NONE+É+João+Henrique;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas+no+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Henrique;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas+no+Senac;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
 
 Me chamo João Henrique, tenho 19 anos e sou natural de Porto Velho-RO, mas atualmente moro em Garanhuns-PE. Concluí o ensino médio no EREM Virgem do Socorro. Atualmente, estou cursando o Curso Tecnico em Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia.
 
