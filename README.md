@@ -3,6 +3,8 @@
 
 **`Desenvolvedor Back-End`**
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 Me chamo João Henrique, tenho 19 anos e sou natural de Porto Velho-RO, mas atualmente moro em Garanhuns-PE. Concluí o ensino médio no EREM Virgem do Socorro. Atualmente, estou cursando o Curso Tecnico em Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia.
 
 <p align="left">
