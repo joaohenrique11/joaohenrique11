@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>Programmer</b>
   <samp>
       <br>
       Hi there! I'm <b>João Henrique</b>
@@ -22,18 +22,20 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/joão_♡-black" />
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11_icons=true&theme=dracula&include_all_commits=true&count_private=true" />7">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=zenburn"/>
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117" />
+  
+  <br><br>
+  
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaohenrique11&theme=zenburn" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
