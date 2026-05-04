@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,gcp,aws,git,figma&theme=dark" />
+    <!-- Ícone de Cloud Computing genérico no lugar de GCP/AWS -->
+    <img src="https://skillicons.dev/icons?i=go,cloud,git,figma&theme=dark" />
   </a>
 </p>
 
@@ -27,10 +28,10 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&theme=dracula&hide_border=false&title_color=7f9f7f&text_color=fff&bg_color=0d1117" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&theme=dracula&hide_border=false&title_color=7f9f7f&text_color=fff&bg_color=0d1117" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
@@ -38,7 +39,9 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaohenrique11&theme=zenburn" width="100%" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaohenrique11&theme=zenburn" width="100%" alt="Resumo do Perfil" />
+</div>
 
 ---
 
@@ -59,11 +62,15 @@
   </a>
 </p>
 
+<p align="center">
 `♡ rentry ⊹ linktr.ee ⊹ carrd.co ⊹ notion ♡`
+</p>
 
 <br>
 
+<div align="center">
 [![](https://komarev.com/ghpvc/?username=kamillyvmg&style=flat-square&color=123845)](https://komarev.com/ghpvc/?username=kamillyvmg)
+</div>
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer)](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer)
 
