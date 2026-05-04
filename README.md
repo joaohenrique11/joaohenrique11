@@ -24,8 +24,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&theme=dracula&hide_border=false&title_color=7f9f7f&text_color=fff&bg_color=0d1117" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -36,10 +44,20 @@
 
 ### 📫 Contact me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joaoprogramadordev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/juaoxp7/)
-[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp/users/633800129903722501)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jo%C3%A3o-henrique-b7267327b/)
+<p align="center">
+  <a href="mailto:joaoprogramadordev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://www.instagram.com/juaoxp7/">
+    <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff" />
+  </a>
+  <a href="https://discordapp/users/633800129903722501">
+    <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-b7267327b/">
+    <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+</p>
 
 `♡ rentry ⊹ linktr.ee ⊹ carrd.co ⊹ notion ♡`
 
