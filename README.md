@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,gcp,aws,git,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,gcp,git,figma&theme=dark" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff" />
   </a>
   <a href="https://discordapp/users/633800129903722501">
-    <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-b7267327b/">
     <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff" />
