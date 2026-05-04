@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,gcp,aws,git,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,cloud,git,figma&theme=dark" />
   </a>
 </p>
 
@@ -59,11 +59,15 @@
   </a>
 </p>
 
+<p align="center">
 `♡ rentry ⊹ linktr.ee ⊹ carrd.co ⊹ notion ♡`
+</p>
 
 <br>
 
+<div align="center">
 [![](https://komarev.com/ghpvc/?username=kamillyvmg&style=flat-square&color=123845)](https://komarev.com/ghpvc/?username=kamillyvmg)
+</div>
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer)](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer)
 
