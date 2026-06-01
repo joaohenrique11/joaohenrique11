@@ -1,11 +1,19 @@
 <div align="center">
-# [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header)](https://github.com/joaohenrique11)
+
+[![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header)](https://github.com/joaohenrique11)
+
 [![](https://imgur.com/aXIQLp8.png)](https://github.com/joaohenrique11)
+
 ## 💻 Programmer
+
 ### `Hi there! I'm João Henrique`
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=600&size=22&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!)](https://git.io/typing-svg)
+
 ---
+
 ### 🛠️ Technologies & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,kotlin,git,figma&theme=dark" />
@@ -13,11 +21,15 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ---
+
 ### 📊 GitHub Stats
+
 <div align="center">
   <table border="0">
     <tr>
@@ -30,10 +42,15 @@
     </tr>
   </table>
 </div>
+
 <br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaohenrique11&theme=zenburn" width="100%" />
+
 ---
+
 ### 📫 Contact me:
+
 <p align="center">
   <a href="mailto:joaoprogramadordev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff" />
@@ -48,8 +65,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
 </p>
+
 `♡ rentry ⊹ linktr.ee ⊹ carrd.co ⊹ notion ♡`
+
 <br>
+
 [![](https://komarev.com/ghpvc/?username=joaohenrique11&style=flat-square&color=123845)](https://github.com/joaohenrique11)
+
 [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer)](https://github.com/joaohenrique11)
+
 </div>
