@@ -31,16 +31,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&theme=dracula&hide_border=false&title_color=7f9f7f&text_color=fff&bg_color=0d1117" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique11&layout=compact&theme=dracula&hide_border=false&title_color=7f9f7f&text_color=fff&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
 <br>
