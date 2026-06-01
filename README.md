@@ -2,7 +2,7 @@
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header)](https://github.com/joaohenrique11)
 
-[![](https://imgur.com/aXIQLp8.png)](https://github.com/joaohenrique11)
+[![](https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=23&text=%3C%2F%3E%20Mobile%20%26%20Backend%20Dev&fontSize=28&fontColor=fff&desc=React%20Native%20%7C%20Kotlin%20%7C%20Expo%20%7C%20Figma&descSize=16&descAlignY=75&animation=fadeIn)](https://github.com/joaohenrique11)
 
 ## 💻 Programmer
 
