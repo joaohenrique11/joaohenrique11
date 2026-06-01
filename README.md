@@ -1,5 +1,7 @@
+faça o github stats funcionar
+
 <div align="center">
-# [![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header)](https://github.com/joaohenrique11)
+[![](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header)](https://github.com/joaohenrique11)
 [![](https://imgur.com/aXIQLp8.png)](https://github.com/joaohenrique11)
 ## 💻 Programmer
 ### `Hi there! I'm João Henrique`
@@ -11,11 +13,11 @@
     <img src="https://skillicons.dev/icons?i=react,kotlin,git,figma&theme=dark" />
   </a>
 </p>
-
 <p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
-
 ---
 ### 📊 GitHub Stats
 <div align="center">
