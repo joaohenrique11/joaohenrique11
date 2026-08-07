@@ -132,18 +132,17 @@ Status:      "Compilando conhecimento diariamente..."
 
 ---
 
-<!-- OBJETIVOS ATUAIS EM FORMATO DE TERMINAL -->
+<!-- OBJETIVOS ATUAIS -->
 ## `💻` OBJETIVOS ATUAIS
 
 <div align="center">
 
-```bash
-joao@ifpe:~$ cat objetivos_2026.txt
-
-[ ] ...
-
-joao@ifpe:~$ _
-```
+| Status | Meta / Objetivo |
+| :---: | :--- |
+| ⏳ | **Me tornar desenvolvedor mobile** |
+| ⏳ | **Concluir a minha faculdade de ADS** |
+| ⏳ | **Conseguir o primeiro emprego** |
+| ⏳ | **Estudar cibersegurança pra futuramente migrar** |
 
 </div>
 
@@ -196,9 +195,6 @@ joao@ifpe:~$ _
 </a>
 <a href="mailto:joaohenriquesilvacapito57@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-9d00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://github.com/joaohenrique11" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-00fff2?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
 </a>
 
 </div>
