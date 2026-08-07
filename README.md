@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/joaohenrique11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Inicializando+sistema+J.H...;%3E+Carregando+m%C3%B3dulo%3A+Mobile+Development;%3E+Status%3A+Estudante+de+TI+no+IFPE;%3E+Pronto+para+deploy+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%3E+Inicializando+sistema+J.H...;%3E+Carregando+m%C3%B3dulo%3A+Mobile+Development;%3E+Status%3A+Estudante+de+TI+no+IFPE;%3E+Pronto+para+deploy+%F0%9F%9A%80" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </a>
 
 <br/>
@@ -41,7 +41,7 @@ Status:      "Compilando conhecimento diariamente..."
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100%" style="max-width:350px;">
 </div>
 
 ---
@@ -53,21 +53,21 @@ Status:      "Compilando conhecimento diariamente..."
 
 **Mobile Developer**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&theme=dark" style="max-width:100%;height:auto;" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
 
 **Gerenciamento de Estado**
 
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" style="max-width:100%;height:auto;" />
 <img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117"/>
 
 <br/><br/>
 
 **Backend & Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=dark" style="max-width:100%;height:auto;" />
 <img src="https://img.shields.io/badge/REST%20API-00fff2?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117"/>
 
@@ -75,7 +75,7 @@ Status:      "Compilando conhecimento diariamente..."
 
 **Ferramentas & Qualidade**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,jest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,jest&theme=dark" style="max-width:100%;height:auto;" />
 <img src="https://img.shields.io/badge/CI%2FCD-ff00c8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Metodologias%20%C3%81geis-00fff2?style=for-the-badge&logo=scrumalliance&logoColor=black&labelColor=0d1117"/>
 
@@ -155,7 +155,7 @@ joao@ifpe:~$ _
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=tokyonight&hide_border=false&border_color=00fff2&bg_color=161b22&title_color=00fff2&icon_color=ff00c8&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaohenrique11&theme=tokyonight&hide_border=false&border=00fff2&background=161b22&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=joaohenrique11&theme=tokyonight&hide_border=false&border=00fff2&background=161b22&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2" width="49%"/>
 
 <br/>
 
@@ -168,7 +168,7 @@ joao@ifpe:~$ _
 
 ### `📈` ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaohenrique11&theme=tokyo-night&hide_border=false&border_color=00fff2&bg_color=161b22&color=00fff2&line=ff00c8&point=ffffff&area=true&area_color=203a43" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaohenrique11&theme=tokyo-night&hide_border=false&border_color=00fff2&bg_color=161b22&color=00fff2&line=9d00ff&point=ffffff&area=true&area_color=203a43" width="100%"/>
 
 </div>
 
@@ -181,8 +181,6 @@ joao@ifpe:~$ _
 <img src="https://raw.githubusercontent.com/joaohenrique11/joaohenrique11/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ **Ainda não ativado.** Essa imagem só aparece depois que você configurar o workflow `Platane/snk` no repositório especial `joaohenrique11/joaohenrique11`. Veja o passo a passo completo na conversa abaixo do README.
-
 ---
 
 <!-- REDES SOCIAIS -->
@@ -190,13 +188,13 @@ joao@ifpe:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-henriquee11/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/>
 </a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
+<a href="https://www.instagram.com/capito.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-ff00c8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
-<a href="mailto:SEU-EMAIL@gmail.com">
+<a href="mailto:joaohenriquesilvacapito57@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-9d00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/joaohenrique11" target="_blank">
