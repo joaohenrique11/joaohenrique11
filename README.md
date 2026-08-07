@@ -31,9 +31,9 @@
 Usuário:     "João Henrique"
 Função:      "Mobile Developer"
 Formação:    "Estudante de Tecnologia da Informação - IFPE"
-Foco_Atual:  ["React Native", "TypeScript", "Backend com Node.js" e "MySQL"]
+Foco_Atual:  ["React Native", "TypeScript", "Backend com Node.js", "MySQL"]
 Missão:      "Construir interfaces inteligentes e sistemas eficientes"
-Status:      "compilando conhecimento diariamente..."
+Status:      "Compilando conhecimento diariamente..."
 ```
 
 </td>
