@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/joaohenrique11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%3E+Inicializando+sistema+J.H...;%3E+Carregando+m%C3%B3dulo%3A+Mobile+Development;%3E+Status%3A+Estudante+de+ADS+no+IFPE;%3E+Nos+fins+de+semana%3A+explorando+Sistemas+Embarcados;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%3E+Inicializando+sistema+J.H...;%3E+M%C3%B3dulo%3A+Mobile+Development;%3E+Estudante+de+ADS+no+IFPE;%3E+Fins+de+semana%3A+Sistemas+Embarcados;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </a>
 
 <br/>
@@ -52,52 +52,24 @@ Status:      "Compilando conhecimento diariamente..."
 
 <div align="center">
 
-**Mobile Developer**
+### 📱 Stack Principal & Web/Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&theme=dark" style="max-width:100%;height:auto;" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=0d1117"/>
-
-<br/><br/>
-
-**Gerenciamento de Estado**
-
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" style="max-width:100%;height:auto;" />
-<img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,mysql,firebase,git,github&theme=dark" style="max-width:100%;height:auto;" />
 
 <br/><br/>
 
-**Backend & Banco de Dados**
+### ⚡ Em Aprendizado (Fins de Semana) — Embarcados & Baixo Nível
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=dark" style="max-width:100%;height:auto;" />
-<img src="https://img.shields.io/badge/REST%20API-00fff2?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117"/>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,vscode&theme=dark" style="max-width:100%;height:auto;" />
 
 <br/><br/>
 
-**Ferramentas & Qualidade**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,jest&theme=dark" style="max-width:100%;height:auto;" />
-<img src="https://img.shields.io/badge/CI%2FCD-ff00c8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Metodologias%20%C3%81geis-00fff2?style=for-the-badge&logo=scrumalliance&logoColor=black&labelColor=0d1117"/>
-
-<br/><br/>
-
-**⚡ Em Aprendizado Ativo (Fins de Semana) — Sistemas Embarcados & Baixo Nível** `[Em Evolução / Aprendizado]`
-
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" style="max-width:100%;height:auto;" />
-<img src="https://img.shields.io/badge/FreeRTOS-00fff2?style=for-the-badge&logo=freertos&logoColor=black&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Wokwi-Simulador-ff00c8?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Bare--Metal-9d00ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MMIO-9d00ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MQTT%20%2F%20IoT-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FreeRTOS-00fff2?style=flat-square&logo=freertos&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Wokwi-ff00c8?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Bare--Metal-9d00ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MQTT%20%2F%20IoT-00fff2?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
@@ -163,6 +135,7 @@ Status:      "Compilando conhecimento diariamente..."
 | ⏳ | **Concluir a minha faculdade de ADS** |
 | ⏳ | **Conseguir o primeiro emprego** |
 | ⏳ | **Desenvolver projetos de Sistemas Embarcados com C++** |
+| ⏳ | **Estudar cibersegurança pra futuramente migrar** |
 
 </div>
 
