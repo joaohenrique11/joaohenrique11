@@ -163,7 +163,6 @@ Status:      "Compilando conhecimento diariamente..."
 | ⏳ | **Concluir a minha faculdade de ADS** |
 | ⏳ | **Conseguir o primeiro emprego** |
 | ⏳ | **Desenvolver projetos de Sistemas Embarcados com C++** |
-| ⏳ | **Estudar cibersegurança pra futuramente migrar** |
 
 </div>
 
