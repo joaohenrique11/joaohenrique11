@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/joaohenrique11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%3E+Inicializando+sistema+J.H...;%3E+Carregando+m%C3%B3dulo%3A+Mobile+Development;%3E+Status%3A+Estudante+de+TI+no+IFPE;%3E+Pronto+para+deploy+%F0%9F%9A%80" alt="Typing SVG" width="100%" style="max-width:700px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%3E+Inicializando+sistema+J.H...;%3E+Carregando+m%C3%B3dulo%3A+Mobile+Development;%3E+Status%3A+Estudante+de+ADS+no+IFPE;%3E+Nos+fins+de+semana%3A+explorando+Sistemas+Embarcados;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </a>
 
 <br/>
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/BASE-IFPE-ff00c8?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/FOCO-MOBILE%20DEVELOPMENT-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/EM%20APRENDIZADO-EMBEDDED%20SYSTEMS-ff00c8?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -29,10 +30,10 @@
 
 ```yaml
 Usuário:     "João Henrique"
-Função:      "Mobile Developer"
-Formação:    "Estudante de Tecnologia da Informação - IFPE"
-Foco_Atual:  ["React Native", "TypeScript", "Backend com Node.js", "MySQL"]
-Missão:      "Construir interfaces inteligentes e sistemas eficientes"
+Função:      "Mobile Developer & Explorando Sistemas Embarcados"
+Formação:    "Estudante de Tecnologia da Informação (ADS) - IFPE"
+Foco_Atual:  ["React Native", "TypeScript", "Backend com Node.js", "MySQL", "Sistemas Embarcados (C++ / Bare-Metal)"]
+Missão:      "Construir interfaces inteligentes e sistemas eficientes, do app ao chip"
 Status:      "Compilando conhecimento diariamente..."
 ```
 
@@ -78,6 +79,25 @@ Status:      "Compilando conhecimento diariamente..."
 <img src="https://skillicons.dev/icons?i=git,github,vercel,jest&theme=dark" style="max-width:100%;height:auto;" />
 <img src="https://img.shields.io/badge/CI%2FCD-ff00c8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Metodologias%20%C3%81geis-00fff2?style=for-the-badge&logo=scrumalliance&logoColor=black&labelColor=0d1117"/>
+
+<br/><br/>
+
+**⚡ Em Aprendizado Ativo (Fins de Semana) — Sistemas Embarcados & Baixo Nível** `[Em Evolução / Aprendizado]`
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" style="max-width:100%;height:auto;" />
+<img src="https://img.shields.io/badge/FreeRTOS-00fff2?style=for-the-badge&logo=freertos&logoColor=black&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Wokwi-Simulador-ff00c8?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Bare--Metal-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MMIO-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MQTT%20%2F%20IoT-9d00ff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -142,6 +162,7 @@ Status:      "Compilando conhecimento diariamente..."
 | ⏳ | **Me tornar desenvolvedor mobile** |
 | ⏳ | **Concluir a minha faculdade de ADS** |
 | ⏳ | **Conseguir o primeiro emprego** |
+| ⏳ | **Desenvolver projetos de Sistemas Embarcados com C++** |
 | ⏳ | **Estudar cibersegurança pra futuramente migrar** |
 
 </div>
