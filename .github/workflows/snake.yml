@@ -10,14 +10,18 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: joaohenrique11
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00fff2
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%239d00ff&color_dots=%230d1117,%23203a43,%2300fff2,%23ff00c8,%239d00ff&color_dark=%23161b22
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
