@@ -40,7 +40,7 @@
 <tr>
 <td>🎓</td>
 <td><b>Formação</b></td>
-<td>Estudante de Ánalise e Desenvolvimento de Sistemas (ADS) - IFPE</td>
+<td>Estudante de Tecnologia da Informação (ADS) - IFPE</td>
 </tr>
 <tr>
 <td>🎯</td>
@@ -109,9 +109,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2">
 
-### 🔹 Helia — App
+### 🔹 Helia — App `🚧 Em Desenvolvimento`
 **Aplicativo de aluguel de casas**
 > Desenvolvido com React Native e Expo, focado na construção de interfaces modernas e responsivas, inspiradas em layouts profissionais de design. Permite listar imóveis disponíveis com busca e navegação intuitiva.
 
@@ -120,6 +120,8 @@
 [`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/helia---app)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔹 API REST
@@ -131,9 +133,7 @@
 [`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/API-REST)
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 ### 🔹 Spotify Web Clone
 **Clone da interface web do Spotify**
