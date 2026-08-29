@@ -24,22 +24,49 @@
 <!-- SOBRE MIM -->
 ## `📡` SOBRE MIM
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
+<td>👤</td>
+<td><b>Usuário</b></td>
+<td>João Henrique</td>
+</tr>
+<tr>
+<td>💼</td>
+<td><b>Função</b></td>
+<td>Mobile Developer & Explorando Sistemas Embarcados</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>Formação</b></td>
+<td>Estudante de Ánalise e Desenvolvimento de Sistemas (ADS) - IFPE</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td><b>Foco Atual</b></td>
 <td>
 
-```yaml
-Usuário:     "João Henrique"
-Função:      "Mobile Developer & Explorando Sistemas Embarcados"
-Formação:    "Estudante de Tecnologia da Informação (ADS) - IFPE"
-Foco_Atual:  ["React Native", "TypeScript", "Backend com Node.js", "MySQL", "Sistemas Embarcados (C++ / Bare-Metal)"]
-Missão:      "Construir interfaces inteligentes e sistemas eficientes, do app ao chip"
-Status:      "Compilando conhecimento diariamente..."
-```
+<img src="https://img.shields.io/badge/React%20Native-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Node.js-ff00c8?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MySQL-ff00c8?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
+<tr>
+<td>🚀</td>
+<td><b>Missão</b></td>
+<td>Construir interfaces inteligentes e sistemas eficientes, do app ao chip</td>
+</tr>
+<tr>
+<td>⚡</td>
+<td><b>Status</b></td>
+<td>Compilando conhecimento diariamente...</td>
+</tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100%" style="max-width:350px;">
@@ -108,13 +135,13 @@ Status:      "Compilando conhecimento diariamente..."
 <tr>
 <td width="50%" colspan="2">
 
-### 🔹 Spring Boot Essentials
-**API REST com Java Spring Boot**
-> Projeto de aprendizado em desenvolvimento de sistemas, focado em criar uma API REST utilizando Spring Boot, com tratamento de erros customizado e documentação da API.
+### 🔹 Spotify Web Clone
+**Clone da interface web do Spotify**
+> Projeto de front-end focado em recriar a interface do Spotify, incluindo a estrutura HTML e o layout da sidebar, com estilização em CSS e interatividade em JavaScript.
 
-`Java` `Spring Boot`
+`HTML` `CSS` `JavaScript`
 
-[`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/spring-boot-essentials)
+[`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/spotify-web-clone)
 
 </td>
 </tr>
