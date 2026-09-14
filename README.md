@@ -7,15 +7,15 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/joaohenrique11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%3E+Inicializando+sistema+J.H...;%3E+M%C3%B3dulo%3A+Mobile+Development;%3E+Estudante+de+ADS+no+IFPE;%3E+Fins+de+semana%3A+Sistemas+Embarcados;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%3E+Inicializando+sistema+J.H...;%3E+M%C3%B3dulo%3A+Sistemas+Embarcados;%3E+Estudante+de+ADS+no+IFPE;%3E+Linguagens%3A+C+%2F+C%2B%2B+%2F+Rust;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/BASE-IFPE-ff00c8?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCO-MOBILE%20DEVELOPMENT-9d00ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/EM%20APRENDIZADO-EMBEDDED%20SYSTEMS-ff00c8?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCO-SISTEMAS%20EMBARCADOS-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LINGUAGENS-C%20%2F%20C%2B%2B%20%2F%20RUST-ff00c8?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 <tr>
 <td>💼</td>
 <td><b>Função</b></td>
-<td>Mobile Developer & Explorando Sistemas Embarcados</td>
+<td>Estudante de Sistemas Embarcados</td>
 </tr>
 <tr>
 <td>🎓</td>
@@ -47,17 +47,16 @@
 <td><b>Foco Atual</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/React%20Native-00fff2?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TypeScript-00fff2?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Node.js-ff00c8?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MySQL-ff00c8?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Rust-ff00c8?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
 <tr>
 <td>🚀</td>
 <td><b>Missão</b></td>
-<td>Construir interfaces inteligentes e sistemas eficientes, do app ao chip</td>
+<td>Entender o hardware por trás do software e construir sistemas eficientes</td>
 </tr>
 <tr>
 <td>⚡</td>
@@ -79,15 +78,9 @@
 
 <div align="center">
 
-### 📱 Stack Principal & Web/Mobile
+### ⚡ Stack Principal — Sistemas Embarcados & Baixo Nível
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,mysql,firebase,git,github&theme=dark" style="max-width:100%;height:auto;" />
-
-<br/><br/>
-
-### ⚡ Em Aprendizado (Fins de Semana) — Embarcados & Baixo Nível
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,vscode&theme=dark" style="max-width:100%;height:auto;" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino&theme=dark" style="max-width:100%;height:auto;" />
 
 <br/><br/>
 
@@ -97,6 +90,18 @@
 <img src="https://img.shields.io/badge/Wokwi-ff00c8?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Bare--Metal-9d00ff?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/MQTT%20%2F%20IoT-00fff2?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+### 💻 Outras Tecnologias (Web & Mobile)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,firebase,git,github&theme=dark" style="max-width:100%;height:auto;" />
+
+<br/><br/>
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -158,11 +163,10 @@
 
 | Status | Meta / Objetivo |
 | :---: | :--- |
-| ⏳ | **Me tornar desenvolvedor mobile** |
+| ⏳ | **Dominar Sistemas Embarcados (C/C++/Rust)** |
 | ⏳ | **Concluir a minha faculdade de ADS** |
-| ⏳ | **Conseguir o primeiro emprego** |
-| ⏳ | **Desenvolver projetos de Sistemas Embarcados com C++** |
-| ⏳ | **Estudar cibersegurança pra futuramente migrar** |
+| ⏳ | **Conseguir o primeiro emprego na área de Sistemas Embarcados** |
+| ⏳ | **Desenvolver projetos com FreeRTOS, STM32 e ESP32** |
 
 </div>
 
@@ -173,7 +177,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=tokyonight&hide_border=false&border_color=00fff2&bg_color=161b22&title_color=00fff2&icon_color=ff00c8&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaohenrique11&show_icons=true&theme=tokyonight&hide_border=false&border_color=00fff2&bg_color=161b22&title_color=00fff2&icon_color=ff00c8&text_color=c9d1d9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=joaohenrique11&theme=tokyonight&hide_border=false&border=00fff2&background=161b22&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2" width="49%"/>
 
 <br/>
@@ -197,7 +201,7 @@
 ## `🐍` CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/joaohenrique11/joaohenrique11/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/joaohenrique11/joaohenrique11/output/snake-v2.svg" width="100%"/>
 </div>
 
 ---
