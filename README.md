@@ -7,15 +7,15 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/joaohenrique11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%3E+Inicializando+sistema+J.H...;%3E+M%C3%B3dulo%3A+Sistemas+Embarcados;%3E+Estudante+de+ADS+no+IFPE;%3E+Linguagens%3A+C+%2F+C%2B%2B+%2F+Rust;%3E+Compilando+firmware...+%F0%9F%94%A7" alt="Typing SVG" width="100%" style="max-width:700px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%3E+Inicializando+sistema+J.H...;%3E+M%C3%B3dulo%3A+JavaScript+%2F+TypeScript;%3E+Estudante+de+ADS+no+IFPE;%3E+Estudando%3A+Ciberseguran%C3%A7a;%3E+Escaneando+vulnerabilidades...+%F0%9F%94%92" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/BASE-IFPE-ff00c8?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCO-SISTEMAS%20EMBARCADOS-9d00ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LINGUAGENS-C%20%2F%20C%2B%2B%20%2F%20RUST-ff00c8?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCO-JAVASCRIPT%20%2F%20TYPESCRIPT-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/EM%20ESTUDO-CIBERSEGURAN%C3%87A-ff00c8?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 <tr>
 <td>💼</td>
 <td><b>Função</b></td>
-<td>Estudante de Sistemas Embarcados</td>
+<td>Desenvolvedor JavaScript/TypeScript & Estudante de Cibersegurança</td>
 </tr>
 <tr>
 <td>🎓</td>
@@ -47,16 +47,16 @@
 <td><b>Foco Atual</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/C-00fff2?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00fff2?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Rust-ff00c8?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/JavaScript-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-ff00c8?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
 <tr>
 <td>🚀</td>
 <td><b>Missão</b></td>
-<td>Entender o hardware por trás do software e construir sistemas eficientes</td>
+<td>Construir aplicações sólidas e entender como protegê-las</td>
 </tr>
 <tr>
 <td>⚡</td>
@@ -78,30 +78,36 @@
 
 <div align="center">
 
-### ⚡ Stack Principal — Sistemas Embarcados & Baixo Nível
+### ⚡ Stack Principal — JavaScript & TypeScript
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino&theme=dark" style="max-width:100%;height:auto;" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FreeRTOS-00fff2?style=flat-square&logo=freertos&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Wokwi-ff00c8?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Bare--Metal-9d00ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MQTT%20%2F%20IoT-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs&theme=dark" style="max-width:100%;height:auto;" />
 
 <br/><br/>
 
-### 💻 Outras Tecnologias (Web & Mobile)
+### 🔐 Em Estudo — Cibersegurança
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,firebase,git,github&theme=dark" style="max-width:100%;height:auto;" />
+<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" style="max-width:100%;height:auto;" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Redes-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pentest-ff00c8?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<sub>🎓 Cursando certificação em Redes (BluePex)</sub>
 
 <br/><br/>
 
 ### 🗄️ Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="max-width:100%;height:auto;" />
+
+<br/><br/>
+
+### 🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase&theme=dark" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -163,10 +169,11 @@
 
 | Status | Meta / Objetivo |
 | :---: | :--- |
-| ⏳ | **Dominar Sistemas Embarcados (C/C++/Rust)** |
+| ⏳ | **Aprofundar em JavaScript e TypeScript** |
 | ⏳ | **Concluir a minha faculdade de ADS** |
-| ⏳ | **Conseguir o primeiro emprego na área de Sistemas Embarcados** |
-| ⏳ | **Desenvolver projetos com FreeRTOS, STM32 e ESP32** |
+| ⏳ | **Conseguir o primeiro emprego** |
+| ⏳ | **Estudar Cibersegurança (redes, pentest, OWASP)** |
+| ⏳ | **Migrar/expandir carreira para a área de Cibersegurança** |
 
 </div>
 
