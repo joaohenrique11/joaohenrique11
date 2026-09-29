@@ -173,7 +173,7 @@
 <tr>
 <td width="50%">
 
-### 🔸 Verificador de Força de Senha `🚧 Em Desenvolvimento`
+### 🔸 Verificador de Força de Senha `✅ Concluído`
 **Analisador de senhas com JavaScript**
 > Ferramenta que avalia a força de uma senha em tempo real, verificando critérios como tamanho, letras maiúsculas/minúsculas, números e caracteres especiais.
 
