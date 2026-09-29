@@ -162,6 +162,44 @@
 
 ---
 
+<!-- PROJETOS DE CIBERSEGURANÇA -->
+## `🔐` PROJETOS DE CIBERSEGURANÇA
+
+<div align="center">
+
+<sub>Pequenos projetos práticos feitos durante meus estudos em Cibersegurança</sub>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔸 Verificador de Força de Senha `🚧 Em Desenvolvimento`
+**Analisador de senhas com JavaScript**
+> Ferramenta que avalia a força de uma senha em tempo real, verificando critérios como tamanho, letras maiúsculas/minúsculas, números e caracteres especiais.
+
+`JavaScript` `HTML` `CSS`
+
+[`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/Verificador-de-For-a-de-Senha)
+
+</td>
+<td width="50%">
+
+### 🔸 Em breve...
+**Próximo projeto de Cibersegurança**
+> Reservado para o próximo projeto prático (ex: gerador/verificador de hash, checador de vazamento de e-mail).
+
+`Python` ou `JavaScript`
+
+`▶ EM BREVE`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- OBJETIVOS ATUAIS -->
 ## `💻` OBJETIVOS ATUAIS
 
