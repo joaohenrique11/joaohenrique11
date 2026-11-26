@@ -40,15 +40,14 @@
 <tr>
 <td>🎓</td>
 <td><b>Formação</b></td>
-<td>Estudante de Tecnologia da Informação (ADS) - IFPE</td>
+<td>Estudante de Análise e Desenvolvimento de Sistemas (ADS) - IFPE</td>
 </tr>
 <tr>
 <td>🎯</td>
 <td><b>Foco Atual</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/JavaScript-00fff2?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TypeScript-00fff2?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-00fff2?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-ff00c8?style=flat-square&labelColor=0d1117"/>
 
 </td>
@@ -95,7 +94,7 @@
 
 <br/><br/>
 
-<sub>🎓 Cursando certificação em Redes (BluePex)</sub>
+<sub>🎓 Cursando Santander - Cibersegurança do Zero a prática (DIO em parceria com o Santander)</sub>
 
 <br/><br/>
 
