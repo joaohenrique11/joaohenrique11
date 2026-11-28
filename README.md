@@ -183,13 +183,19 @@
 </td>
 <td width="50%">
 
-### 🔸 Em breve...
-**Próximo projeto de Cibersegurança**
-> Reservado para o próximo projeto prático (ex: gerador/verificador de hash, checador de vazamento de e-mail).
+### 🔸 Laboratório de Força Bruta com Medusa `🚧 Em Desenvolvimento`
+**Simulação de ataques de força bruta em ambiente controlado**
+> Laboratório prático utilizando Kali Linux e Medusa contra um ambiente vulnerável (Metasploitable 2), explorando cenários de força bruta em FTP, formulário web (DVWA) e SMB, com documentação completa de cada etapa.
 
-`Python` ou `JavaScript`
+`Kali Linux` `Medusa` `Nmap`
 
-`▶ EM BREVE`
+[`▶ VER REPOSITÓRIO`](https://github.com/joaohenrique11/medusa-bruteforce-lab)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </td>
 </tr>
